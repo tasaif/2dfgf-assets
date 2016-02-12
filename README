@@ -1,6 +1,6 @@
 # README #
 
-*Credits
+*Credits*
 
 The primary artist and animator for this project is Gabriel Tienero.
 His works can be found at https://gtianart.wordpress.com/concept/
@@ -14,7 +14,7 @@ covered under this project's MIT license
   ./asset/image/controller.png https://thenounproject.com/term/video-game-controller/23955/
   ./asset/image/keyboard.png http://www.i2symbol.com/symbols/technical/x2328-keyboard-smiley-face
 
-*Instructions
+*Instructions*
 
 This repository contains all of the binary assets required to run
 the "fighter" binary produced from https://bitbucket.org/2dfgf/fighter
@@ -25,4 +25,3 @@ The directory structure should look like the following
   ./bin/fighter/asset/font
   ./bin/fighter/asset/image
   etc
-
