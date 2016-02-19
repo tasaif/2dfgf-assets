@@ -7,10 +7,7 @@ His works can be found at https://gtianart.wordpress.com/concept/
 
 The following third party assets are used in this project, but are not
 covered under this project's MIT license
-  ./asset/font/mode7.ttf http://www.fontspace.com/andrew-bulhak/modeseven
-  ./asset/font/nk57.ttf http://www.dafont.com/nk57-monospace.font
-  ./asset/font/opensans.ttf http://www.fontsquirrel.com/fonts/open-sans
-  ./asset/font/somethingstrange.ttf http://www.dafont.com/something-strange.font
+  ./asset/font/* Refer to each font's respective directory for information regarding their licenses
   ./asset/image/controller.png https://thenounproject.com/term/video-game-controller/23955/
   ./asset/image/keyboard.png http://www.i2symbol.com/symbols/technical/x2328-keyboard-smiley-face
   ./asset/image/billboard2.bmp https://en.wikipedia.org/wiki/Fractal_canopy#/media/File:Fractal_canopy.svg
